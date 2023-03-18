@@ -5,7 +5,7 @@ def containsDuplicate(nums):
             return True
     return False
     
-Optimised way:
+#Optimised way:
 
 def containsDuplicate(nums):
     seen = set()
